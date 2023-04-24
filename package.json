@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "audio-buffer": "^5.0.0",
+    "audio-decode": "^2.1.3",
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
